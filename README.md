@@ -13,6 +13,6 @@ Deployed site is viewable at <a href="https://daliamfarag.github.io/Work-Day-Sch
 
 ***
 
-<img src ="assets/images/WorkdayScheduler">
+ <img src="./assets/Images/WorkdayScheduler.png">
 
 
