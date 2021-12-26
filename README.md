@@ -9,8 +9,10 @@ Events can be saved to local storage, and will persist even if the page is close
 
 Events are also color coded based on if the given hour is in the past, present, or future.
 
-Deployed site is viewable at <a href="https://michael-rodriguez22.github.io/THIRD-PARTY-API-CHALLENGE-work-day-scheduler/">here</a>. Enjoy!
+Deployed site is viewable at <a href="https://daliamfarag.github.io/Work-Day-Scheduler/">here</a>. Enjoy!
 
 ***
+
+<img src ="assets/images/WorkdayScheduler">
 
 
